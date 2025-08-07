@@ -10,6 +10,7 @@ import Contact from './component/Contact';
   import { ToastContainer} from 'react-toastify';
 import Footer from './component/Footer';
 
+
 import AOS from 'aos';
 
 const App = () => {
